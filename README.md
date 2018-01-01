@@ -1,0 +1,1 @@
+# srednia-arytmetyczna-z-5-ocen
