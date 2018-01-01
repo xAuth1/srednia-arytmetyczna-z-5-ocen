@@ -4,7 +4,8 @@ using namespace std;
 
 float oceny[5]; float suma=0, srednia;
 
-int main();
+int main()
+
 {
     for(int i=0; i<5; i++) 
     {
